@@ -1,5 +1,3 @@
-***
-***
 # Design a preprocessing language for Overwatch workshop that facilitates some programming structures
 ## 1 What programming structures are needed?
 ***
