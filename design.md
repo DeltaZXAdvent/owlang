@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-=======
-***
-***shit
->>>>>>> b9944e6a5fb9fac48c622e72af92f27b6c03e7f0
 # Design a preprocessing language for Overwatch workshop that facilitates some programming structures
 ## 1 What programming structures are needed?
 ***
